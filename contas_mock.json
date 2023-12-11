@@ -1,0 +1,100 @@
+{
+  "contas": [
+    {
+      "id": "1",
+      "titulo": "Conta de luz",
+      "valor": 540.90,
+      "vencimento": "10/12/2023",
+      "grupo": "casa",
+      "pagamento": {
+        "valor": 540.90,
+        "data": "05/12/2023",
+        "formaPagamento": "PIX"
+      }
+    },
+    {
+      "id": "2",
+      "titulo": "Aluguel",
+      "valor": 1200.00,
+      "vencimento": "15/12/2023",
+      "grupo": "casa",
+      "pagamento": null
+    },
+    {
+      "id": "3",
+      "titulo": "Supermercado",
+      "valor": 350.75,
+      "vencimento": "08/12/2023",
+      "grupo": "alimentação",
+      "pagamento": null
+    },
+    {
+      "id": "4",
+      "titulo": "Internet",
+      "valor": 80.00,
+      "vencimento": "18/12/2023",
+      "grupo": "tecnologia",
+      "pagamento": {
+        "valor": 80.00,
+        "data": "10/12/2023",
+        "formaPagamento": "Boleto Bancário"
+      }
+    },
+    {
+      "id": "5",
+      "titulo": "Academia",
+      "valor": 150.00,
+      "vencimento": "12/12/2023",
+      "grupo": "saúde",
+      "pagamento": null
+    },
+    {
+      "id": "6",
+      "titulo": "Seguro do carro",
+      "valor": 250.50,
+      "vencimento": "20/12/2023",
+      "grupo": "veículo",
+      "pagamento": null
+    },
+    {
+      "id": "7",
+      "titulo": "Cartão de crédito",
+      "valor": 800.00,
+      "vencimento": "25/12/2023",
+      "grupo": "finanças",
+      "pagamento": {
+        "valor": 800.00,
+        "data": "23/12/2023",
+        "formaPagamento": "Cartão de Crédito"
+      }
+    },
+    {
+      "id": "8",
+      "titulo": "Telefone",
+      "valor": 50.00,
+      "vencimento": "14/12/2023",
+      "grupo": "comunicação",
+      "pagamento": null
+    },
+    {
+      "id": "9",
+      "titulo": "Gás",
+      "valor": 70.50,
+      "vencimento": "22/12/2023",
+      "grupo": "casa",
+      "pagamento": null
+    },
+    {
+      "id": "10",
+      "titulo": "Escola",
+      "valor": 300.00,
+      "vencimento": "30/12/2023",
+      "grupo": "educação",
+      "pagamento": {
+        "valor": 300.00,
+        "data": "28/12/2023",
+        "formaPagamento": "Transferência Bancária"
+      }
+    }
+  ]
+}
